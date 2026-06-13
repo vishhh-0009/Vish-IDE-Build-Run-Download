@@ -58,5 +58,5 @@ src/
 # Author
 
 Vishakha Ahirwar
-Linkedin-www.linkedin.com/in/vishakha-ahirwar
-Github-https://github.com/vishhh-0009
+- Linkedin-www.linkedin.com/in/vishakha-ahirwar
+- Github-https://github.com/vishhh-0009
