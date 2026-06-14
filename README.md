@@ -1,6 +1,7 @@
 ## Vish IDE
 
-Vish IDE — Build • Run • Download
+Vish IDE Platform — Build • Run • Download
+
 A modern web-based code editor built with React, Vite, Tailwind CSS, and Monaco Editor featuring JavaScript execution, terminal output, code download, and multi-language editor support.
 
 Deployment  on the application - Vercel
