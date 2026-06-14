@@ -5,8 +5,11 @@ A modern web-based code editor built with React, Vite, Tailwind CSS, and Monaco 
 
 Deployment  on the application - Vercel
 
-Live Link-https://vish-ide-build-run-download.vercel.app/
+Live Link - https://vish-ide-build-run-download.vercel.app/
 
+Github - https://github.com/vishhh-0009
+
+Linkedin - www.linkedin.com/in/vishakha-ahirwar
 
 # Features
 
@@ -64,5 +67,4 @@ src/
 # Author
 
 Vishakha Ahirwar
-- Linkedin-www.linkedin.com/in/vishakha-ahirwar
-- Github-https://github.com/vishhh-0009
+
