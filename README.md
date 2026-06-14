@@ -3,7 +3,7 @@
 Vish IDE — Build • Run • Download
 A modern web-based code editor built with React, Vite, Tailwind CSS, and Monaco Editor featuring JavaScript execution, terminal output, code download, and multi-language editor support.
 
-Deployement  on the application - Vercel
+Deployment  on the application - Vercel
 
 Live Link-https://vish-ide-build-run-download.vercel.app/
 
